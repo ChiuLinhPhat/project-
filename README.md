@@ -8,13 +8,15 @@ The project is implemented using Python, and various data analysis libraries suc
 ## Project Directory Structure
 
 - **.ipynb_checkpoints/**: Directory containing checkpoints of Jupyter Notebook files.
-- **src/**
-  - **data/**: Directory for storing data.
-- **marketing_campaign.csv**: Data file for the marketing campaign.
+- **src/**: Main source code directory.
+- **code/**: Directory for additional code files.
+  - **rfm.ipynb**: Jupyter Notebook file for RFM analysis.
+  - **visual.ipynb**: Jupyter Notebook file for visual analysis.
+- **data/**: Directory for storing data.
+  - **marketing_campaign.csv**: Data file for the marketing campaign.
 - **venv/**: Directory containing the Python virtual environment.
+- **README.md**: Project documentation file.
 - **requirements.txt**: File containing a list of libraries and versions required for the project.
-- **rfm.ipynb**: Jupyter Notebook file for RFM analysis.
-- **visual.ipynb**: Jupyter Notebook file for visual analysis.
 
 ## __Project Highlights:__
 
