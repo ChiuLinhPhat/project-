@@ -9,15 +9,12 @@ The project is implemented using Python, and various data analysis libraries suc
 
 - **.ipynb_checkpoints/**: Directory containing checkpoints of Jupyter Notebook files.
 - **src/**: Main source code directory.
-- **code/**: Directory for additional code files.
-  - **rfm.ipynb**: Jupyter Notebook file for RFM analysis.
-  - **visual.ipynb**: Jupyter Notebook file for visual analysis.
 - **data/**: Directory for storing data.
   - **marketing_campaign.csv**: Data file for the marketing campaign.
+- **rfm.ipynb**: Jupyter Notebook file for RFM analysis.
 - **venv/**: Directory containing the Python virtual environment.
 - **README.md**: Project documentation file.
 - **requirements.txt**: File containing a list of libraries and versions required for the project.
-
 ## __Project Highlights:__
 
 - __RFM Analysis:__ Utilizing the RFM model to evaluate customer behavior.
